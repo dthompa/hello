@@ -4,6 +4,6 @@
 </head>
 <body>
 <h1>Hello</h1>
-<?php echo "My name is Glenn"; ?>
+<?php echo "My name is Daniel"; ?>
 </body>
 </hmtl>
